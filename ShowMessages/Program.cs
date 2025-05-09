@@ -6,6 +6,7 @@ namespace ShowMessages
     {
         private static void Main(string[] args)
         {
+            //Comment
             Console.WriteLine("Hello LP1!");
         }
     }
